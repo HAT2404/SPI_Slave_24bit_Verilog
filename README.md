@@ -8,5 +8,8 @@ SPI slave protocol verilog.
 
   - Register Read Timing Diagram.
    <img width="1334" height="561" alt="image" src="https://github.com/user-attachments/assets/8f2022f4-2080-49de-ae90-6ea2913ed7d7" />
+  - Signal Run on kit
+    <img width="1855" height="546" alt="spi_slave_reg" src="https://github.com/user-attachments/assets/369cee18-94b2-40da-b494-955b7ed1c0b4" />
+
 3. Mode:
 CPOL=1 CPHA = 1
